@@ -62,3 +62,4 @@ Employing sequence-to-sequence models with transfer learning for enhanced predic
 - Stevo Dimovski
 - Ivana Atanasovska
   
+<img src="Images/Team.png">
