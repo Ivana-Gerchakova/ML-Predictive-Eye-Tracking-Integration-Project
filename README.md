@@ -1,5 +1,5 @@
 # Project Title :
-Machine Learning-Predictive-Eye-Tracking-Integration-Project.
+Machine Learning-Predictive-Eye-Tracking-Integration-Project. 
 
 ## Project Overview :
 This machine learning project for predictive eye tracking is an ambitious endeavor driven by the overarching goal of elevating the precision and depth of consumer behavior analysis. 
